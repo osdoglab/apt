@@ -13,3 +13,17 @@ Priority: optional
 Description: OS.Dog base system configuration
  SSH banner, shell prompt, autologin, sshd defaults.
 
+Package: osdog-tools
+Version: 1.0.0
+Architecture: amd64
+Maintainer: osdoglab <osdoglab@users.noreply.github.com>
+Filename: ./osdog-tools_1.0.0_amd64.deb
+Size: 6788080
+MD5sum: d454175b0403014d39c6b2b7397d6bd0
+SHA1: e48a75e4775bb027ab0d17b31321c27981aad01e
+SHA256: fd9e5652a0161bbb5afba4685ef31b95f8372ab43e978f079b90e7eda0ccafe3
+Section: admin
+Priority: optional
+Description: OS.Dog system tools
+ napalm13 (NVIDIA GPU overclocking/monitoring) and autofancore (fan control).
+
